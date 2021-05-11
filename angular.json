@@ -33,7 +33,9 @@
             "styles": [
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [
+              "src/index.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -96,7 +98,9 @@
             "styles": [
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [
+              "src/index.js"
+            ]
           }
         },
         "lint": {
